@@ -1,4 +1,4 @@
-# System Manual of Antibacterial Peptide Prediction and Generation System
+# Manual of Antibacterial Peptide Prediction and Generation System
 
 ## Main Functions
 
